@@ -1,1 +1,3 @@
 # infiniteSliderJS
+
+HTML, CSS JavaScript
